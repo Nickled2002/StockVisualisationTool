@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 # Make call to polygon
-client = RESTClient('GFgcUeXub0aA_nl3siNyAXRz1GiuLPZa')
+client = RESTClient('APIKEY')
 
 def addtocsv(aggs,num,name):
     # Add data to csv
